@@ -9,7 +9,7 @@ env:
   LOCATION: westus2
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 88526384-0862-4d71-bced-91e4e9aedcac
-  WEBAPP-NAME: ctloc67
+  WEBAPP-NAME: az400m03l08-sp1
 
 jobs:
   #Build, test and publish .net web project in repository
